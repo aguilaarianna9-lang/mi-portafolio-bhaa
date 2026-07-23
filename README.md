@@ -1,4 +1,4 @@
-![Blexi Alain](perfil.jpg)
+![Blexi Alain](Foto-Blexi.jpeg)
 
 # 💻 Mi Portafolio - BHAA Digital Solutions
 
