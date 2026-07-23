@@ -1,3 +1,5 @@
+![Logo de BHAA Digital Solutions](WhatsApp%20Image%202026-07-23%20at%201.32.12%20PM.jpeg)
+
 # 💻 Mi Portafolio - BHAA Digital Solutions
 
 ¡Bienvenido!
