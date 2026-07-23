@@ -1,4 +1,4 @@
-![Blexi Alain](Foto-Blexi.jpeg)
+<img src="Foto-Blexi.jpeg" alt="Blexi Alain" width="200">
 
 # 💻 Mi Portafolio - BHAA Digital Solutions
 
