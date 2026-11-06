@@ -30,7 +30,6 @@ Soy *Blexi Alain*, Licenciada en Informática y apasionada por la tecnología. E
 * Página web para BHAA Digital Solutions
 * Calculadora con JavaScript
 * Formulario de contacto
-* Lista de tareas (To-Do List)
 
 ---
 
